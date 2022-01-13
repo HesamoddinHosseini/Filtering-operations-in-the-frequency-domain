@@ -1,4 +1,7 @@
 # Filtering-operations-in-the-frequency-domain
+
+Question
+
 Filtering operations in the frequency domain
 
 1- Considering Im421 to Im423 images as input, using Gaussian low-pass filters with 10 different bandwidths, smooth the image and show the result.
