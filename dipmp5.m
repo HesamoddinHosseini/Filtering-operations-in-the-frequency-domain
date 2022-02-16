@@ -1,4 +1,7 @@
-
+% Project Title: Geometric imaging model - Depth measurement
+% Author: Hesamoddin Hosseini
+% Contact: hesamoddin.hosseini@mail.um.ac.ir
+% Websit:http://hesamoddin.hosseini.student.um.ac.ir
 
  کدمربوط به مرحله ۱و ۲)
 close all;
