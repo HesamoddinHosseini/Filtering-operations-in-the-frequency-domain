@@ -1,6 +1,6 @@
 # Filtering-operations-in-the-frequency-domain
 
-Question
+Question)
 
 Filtering operations in the frequency domain
 
@@ -12,7 +12,7 @@ Filtering operations in the frequency domain
 
 The Im421 to Im423 images are each made up of two different images, one image passed through a low-pass filter and the other through a high-pass filter, and finally grouped together at the appropriate intensity setting. Based on this, create such an image by considering two of your favorite images.
 
-سوال
+سوال)
 
 1-	با در نظر گرفتن تصاویر Im421 تا Im423 به عنوان ورودی، با استفاده از فیلترهای پایین‌گذر گوسی با 10 پهنای باند مختلف، تصویر را هموار کرده نتیجه را نشان دهید.
 
