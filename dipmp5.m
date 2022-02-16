@@ -1,4 +1,4 @@
-% Project Title: Geometric imaging model - Depth measurement
+% Project Title: Filtering operations in the frequency domain
 % Author: Hesamoddin Hosseini
 % Contact: hesamoddin.hosseini@mail.um.ac.ir
 % Websit:http://hesamoddin.hosseini.student.um.ac.ir
