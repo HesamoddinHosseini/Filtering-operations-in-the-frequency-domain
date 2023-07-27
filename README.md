@@ -1,4 +1,4 @@
-# Filtering-operations-in-the-frequency-domain, Mini-Project 5
+# Digital Image Processing (DIP),Filtering-operations-in-the-frequency-domain, Mini-Project 5
 
 Question)
 
@@ -11,6 +11,8 @@ Filtering operations in the frequency domain
 3. Produce 50 f1 to f50 images from each image, where f1 is the original image. Other images f2 to f50 are smaller and smaller versions of f1 so that each image is smaller than the previous image. Resize so that the last image, f50, is one-eighth the size of the original image. Convert images into a video and watch it. Describe how you feel. What is the reason for this?
 
 The Im421 to Im423 images are each made up of two different images, one image passed through a low-pass filter and the other through a high-pass filter, and finally grouped together at the appropriate intensity setting. Based on this, create such an image by considering two of your favorite images.
+
+Hesamoddin Hosseini
 
 سوال)
 
